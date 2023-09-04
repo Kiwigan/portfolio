@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.34391097.css",
+    "main.js": "/portfolio/static/js/main.a88962f9.js",
+    "static/media/NTU.jpg": "/portfolio/static/media/NTU.0da346fd82eabbc9657f.jpg",
+    "static/media/KrissHome.jpeg": "/portfolio/static/media/KrissHome.184c1a74209ffe575d18.jpeg",
+    "static/media/profile-pic.jpg": "/portfolio/static/media/profile-pic.99a8209d046e8009cf76.jpg",
+    "static/media/quizlet1.jpg": "/portfolio/static/media/quizlet1.4fd453de41f0117cad3c.jpg",
+    "static/media/quizlet4.jpg": "/portfolio/static/media/quizlet4.2fda5094007e7abc8a63.jpg",
+    "static/media/quizlet3.jpg": "/portfolio/static/media/quizlet3.3fae5c1cd7f9d1615a46.jpg",
+    "static/media/quizlet2.jpg": "/portfolio/static/media/quizlet2.9895e7346cf9a3d97808.jpg",
+    "static/media/react-2.svg": "/portfolio/static/media/react-2.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/icons8-nodejs.svg": "/portfolio/static/media/icons8-nodejs.b7d2308b16bd82b67987d0d1682f8e6b.svg",
+    "static/media/icons8-python.svg": "/portfolio/static/media/icons8-python.026a62687ef705a39cfc755d7457859c.svg",
+    "static/media/MongoDB.svg": "/portfolio/static/media/MongoDB.114c881a2c5ed4fa71e070e55aba4883.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/icons8-css3.svg": "/portfolio/static/media/icons8-css3.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
+    "static/media/icons8-html.svg": "/portfolio/static/media/icons8-html.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "main.34391097.css.map": "/portfolio/static/css/main.34391097.css.map",
+    "main.a88962f9.js.map": "/portfolio/static/js/main.a88962f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34391097.css",
+    "static/js/main.a88962f9.js"
+  ]
+}
