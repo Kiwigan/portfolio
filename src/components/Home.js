@@ -51,7 +51,7 @@ const Home = () => {
         <div className="content">
             <div className="hero-main">
                 <div className="hero-text">
-                    <h1>React Developer</h1>
+                    <h1>Software Developer</h1>
                     <p>Hi, I'm Keegan Lee. I'm a penultimate year student in Naynang Technological University (NTU) persuing a degree in Information Engineering and Media (IEM)</p>
                     <span>
                     <a aria-label="linkedin" rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/keeganlee107/">
