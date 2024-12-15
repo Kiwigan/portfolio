@@ -27,8 +27,8 @@ const Projects = () => {
                     <div className="project-1">
                         <Slider/>
                         <div className="project-text">
-                            <h3>Fashion Ecommerce KrissGraph</h3>
-                            <p>With no knowledge of basic HTML CSS going in, it was the first ever website development project I started. Despite the lack of expertise I managed to develop a working locally hosted website in 4 weeks.</p>
+                            <h3>Kahoot with phone input POC</h3>
+                            <p>Reimagined Kahoot with phone as User Interface</p>
                             <div className="stack">
                                 <p>HTML/CSS</p>
                                 <p>Tomcat</p>
